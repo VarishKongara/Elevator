@@ -1,8 +1,10 @@
 # Elevator
 
-## Compile
+### Compile
 
 `go build .`
+
+### Assumptions and Missing Features
 
 The elevator system makes several simplifying assumptions:
 
